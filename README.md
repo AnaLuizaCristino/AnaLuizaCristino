@@ -3,7 +3,7 @@
 🎨 **Criativa por natureza, desenvolvedora por paixão.**  
 📚 Estudante de Publicidade e Propaganda | Explorando o mundo do Front-end.  
 💻 **Habilidades:** HTML, CSS, BootStrap, JS e um toque de design.  
-🎯 **Interesses:** Desenvolvimento de portfólios interativos e soluções criativas para projetos web.
+🎯 **Interesses:** Desenvolvimento de páginas interátivas e soluções criativas para projetos web.
 
 ---
 
