@@ -2,7 +2,7 @@
 
 🎨 **Criativa por natureza, desenvolvedora por paixão.**  
 📚 Estudante de Publicidade e Propaganda | Explorando o mundo do Front-end.  
-💻 **Habilidades:** React, HTML, CSS e um toque de design.  
+💻 **Habilidades:** HTML, CSS, BootStrap, JS e um toque de design.  
 🎯 **Interesses:** Desenvolvimento de portfólios interativos e soluções criativas para projetos web.
 
 ---
