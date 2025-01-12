@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, sou Ana Luiza!
 
-<!--
-**AnaLuizaCristino/AnaLuizaCristino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Criativa por natureza, desenvolvedora por paixão.**  
+📚 Estudante de Publicidade e Propaganda | Explorando o mundo do Front-end.  
+💻 **Habilidades:** React, HTML, CSS e um toque de design.  
+🎯 **Interesses:** Desenvolvimento de portfólios interativos e soluções criativas para projetos web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Sobre mim
+- 📖 **Aprendendo:** Sempre buscando expandir meu conhecimento em desenvolvimento web e design.  
+- ✨ **Metas:** Criar experiências visuais marcantes e impactar positivamente a comunidade.  
+- 📩 **Contato:** [seuemail@example.com](mailto:seuemail@example.com)
+
+---
+
+## 🌐 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnaLuiza-blue?logo=linkedin)](https://www.linkedin.com/in/ana-luiza-gon%C3%A7alves-cristino-5a8270255/)
