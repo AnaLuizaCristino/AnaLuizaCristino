@@ -10,7 +10,7 @@
 ## 🌱 Sobre mim
 - 📖 **Aprendendo:** Sempre buscando expandir meu conhecimento em desenvolvimento web e design.  
 - ✨ **Metas:** Criar experiências visuais marcantes e impactar positivamente a comunidade.  
-- 📩 **Contato:** [seuemail@example.com](mailto:seuemail@example.com)
+- 📩 **Contato:** [anagcristino1@gmail.com](mailto:anagcristino1@gmail.com)
 
 ---
 
